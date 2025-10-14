@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tarick! <br/><a href="https://github.com/techbytarick"> <a href="https://www.linkedin.com/in/tarickbaptiste/"> Network & Security Professional</a>
 
-<h2>👨‍💻 Network & Security Development Projects:</h2>
+<h2>👨‍💻 Network & Security Projects:</h2>
 
 - <b>Active Directy Home Lab </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
